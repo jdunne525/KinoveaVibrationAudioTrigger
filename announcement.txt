@@ -1,0 +1,8 @@
+This project creates a different type of “microphone” that isn’t triggered by sound, but instead by vibration (or a physical shock) such as a net moving after something hit it (golf ball, baseball, disc golf disc, or whatever you want as long as you can attach this device and it causes a movement).  This new “microphone” goes into a standard microphone jack on any computer and can be used with Kinovea’s audio trigger feature to trigger a video recording.  
+
+The upside to this is that we can trigger Kinovea in a much more reliable way that doesn’t give nuisance trips by other noise in the room as the audio trigger tends to do.  (It can of course still have a nuisance trip if somebody hits the net, but that's a whole different issue)
+
+No special software (besides Kinovea) is needed.  This is purely a mechanical replacement for a standard microphone.
+
+Take a look at what I made here:
+[url]https://github.com/jdunne525/KinoveaVibrationAudioTrigger/tree/master[/url]
