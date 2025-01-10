@@ -53,7 +53,7 @@ For the electrical / audio engineers reading this, this may seem senseless, but 
 1. Start with a standard pair of headphones (skip this if using replacement 3.5mm to bare end wire cable)![](Files/image%205.png)
 2. Destroy the plastic housing around the headphone part being careful not to mess with the wires.  (You don’t want to cut the wires).  I don’t have a picture of this, but de-solder the speaker part with a soldering iron which will make re-soldering easier later on.  If you cut the wires you’re going to have a harder time soldering to the wires, but it’s still possible.  
 ![](Files/image%206.png)  
-3. Solder the SW-420 across the red wire to the copper wire (or black wire if using the 3.5mm replacement wire).  
+3. Solder the SW-420 across the red wire to the copper wire (or black wire if using the 3.5mm replacement wire).  Leave the other pair of wires (or white wire in the case of the 3.5mm replacement) alone.  (I hot glued them so they don't touch each other)
 ![](Files/image%207.png)  
 ![](Files/image%208.png)  
 4. Hot glue the whole mess to something rigid (I used an old credit card)  
